@@ -1,5 +1,5 @@
 ---
-name: 云计算工程技术人员初级-专属学习助手
+name: cloudkao - 云计算初级考试助手
 author: cloud_teacher
 version: full_v2.1
 model: default
